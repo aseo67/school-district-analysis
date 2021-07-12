@@ -71,7 +71,7 @@ Four changes in the updated school district analysis after scores for Thomas Hig
  
  2. Next, additional script was needed to determine the number of 10-12th graders at Thomas High School, as all test results for this school would only correspond to these students, rather than the entire THS student population. 
   
-  **Screenshot of Code/Result for Re-calculatio of Total # of Students Passing among THS 10-12th graders**
+  **Screenshot of Code/Result for Re-calculation of Total # of Students Passing among THS 10-12th graders**
   ![Screenshot](https://github.com/aseo67/school-district-analysis/blob/main/Resources/Code%20for%20Deliverable%201_THS%20New%20Student%20Counts.png)
  
  3. With the new student count of THS 10-12th graders only, the appropriate "% Passing" percentages can be calculated for each of the tests (reading and math) and overall (for those passing both tests). This accurately calculates the passing percentages for the students of THS whose test scores are being counted. 
